@@ -373,3 +373,6 @@ Use konami site and figure out how to pick card packs and retain years/pack in t
 pack selection gui
 Then either upload to dropbox or maybe to imgur through their api
 """
+
+
+#testTEsttestTEST
